@@ -1,4 +1,3 @@
-
 # Am_fs2xlsx
 This program aims to capture financial statements of those corporations which are listed in SEC and transform them into XLSX. You can save a lot of time by running this program to obtain the financial statements in the format of xlsx and avoid endless processes of copying and pasting. Enjoy it!
 
@@ -11,5 +10,7 @@ To make the program run well, there are some requirements about the running envi
 0.  The version of Python is 3.X.
 1.  Some packages including: bs4, re, openpyxl, requests, selenium.
 2.  Chrome with chromedriver fitting the version of Chrome.
+
+Please store Am_fs2xlsx.py and bootstrap.py in the same file. You just need to run Am_fs2xlsx.py.
 
 If you have any good suggestions about the algorithm or program, please contact me with E-mail: m18362928852@163.com. Danke schön!
