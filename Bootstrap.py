@@ -8,7 +8,7 @@ import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium import webdriver
 
-cik = input('Please input the TICKER SYMBOL or CIK of the corporation(e.g. Nuan), CASE-INSENSITIVE: ')
+cik = input('Please input the TICKER SYMBOL or CIK of the corporation(e.g. Nuan), CASE-INSENSITIVE: ')	# Dedicated to Z.R.H. Ich liebe dich.
 year = input('Please input the year in which the report was released(e.g. : 2016): ')
 types = input('Please input the type of the report(10-Q or 10-K), CASE-INSENSITIVE: ')
 if types in ['10-Q', '10-q']:
