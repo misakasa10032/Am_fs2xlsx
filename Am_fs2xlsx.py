@@ -6,7 +6,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
 import Bootstrap
 
-str_1 = Bootstrap.str_1
+str_1 = Bootstrap.str_1	#	Dedicated to Z.R.H. Ich liebe dich.
 cik = Bootstrap.cik
 year = Bootstrap.year
 types = Bootstrap.types
